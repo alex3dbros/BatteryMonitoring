@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2c2bc9d3f97f3a94daca0bc961d32522
+timeCreated: 1559448809
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amazon Ember
+  fontNames:
+  - Amazon Ember
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f194dc47aa15a2a42bbda1f131f636cd
+timeCreated: 1559448809
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Good Pro
+  fontNames:
+  - Good Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
