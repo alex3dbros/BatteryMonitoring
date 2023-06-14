@@ -1,5 +1,6 @@
 
 Battery Monitoring App
+
 Welcome to the Battery Monitoring project! This application allows users to monitor the voltage of lithium-ion cells through an intuitive mobile interface developed with Unity. The device communicates with the app via a Bluetooth module, providing real-time voltage updates.
 
 Table of Contents
@@ -14,10 +15,13 @@ Getting Started
 To get started with the Battery Monitoring App, follow the installation instructions provided below.
 
 Prerequisites
+
 The application is compatible with Android and iOS platforms. Ensure your device supports Bluetooth communication.
 
 Installation
+
 Android
+
 Download the APK file from the repository.
 Go to your phone settings and allow installing apps from unknown sources.
 Navigate to the location of the downloaded APK file and open it to install.
@@ -25,9 +29,11 @@ Follow the instructions on your device to complete the installation.
 
 
 Contributing
+
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
+
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
